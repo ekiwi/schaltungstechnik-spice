@@ -1,0 +1,10 @@
+# Gedit Backups
+*~
+
+#LTSpice Files
+# http://ltwiki.org/?title=Most_frequently_asked_questions_for_beginners#What_are_the_different_LTspice_file_types.3F
+*.net
+*.log
+*.raw
+*.fft
+
